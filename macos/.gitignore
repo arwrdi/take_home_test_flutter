@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vscode/
+
+# Build artifacts
+.dart_tool/
+.flutter-plugins-cache/
+build/
+ios/.symlinks/
+android/.gradle/
+android/app/build/
+android/app/.cxx/
+android/app/.externalNativeBuild/
+android/.idea/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+/ios/.flutter-plugins
+/ios/.flutter-plugins-dependencies
+/android/.flutter-plugins
+/android/.flutter-plugins-dependencies
+
+# Local database
+*.db
+*.sqlite
